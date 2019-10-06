@@ -1,5 +1,7 @@
 # Liber Simplicitas
 
+[View on GitHub](https://github.com/treenotation/blog.treenotation.org/blob/master/liber-simplicitas.md)
+
 ## DRAFT.
 
 The Tree Notation system of writing consists of _cells_ and _symbols_ and _grids_ and _trees_ and _treeMachines_ and _programs_ and _grammars_.
