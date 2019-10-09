@@ -38,4 +38,4 @@ Tree Notation can be represented in 1-dimensions by defining 3 symbols:
 
 Using just these rules of notation, or syntax, all languages, from the simplest to the most complex, can be built in a straightforward manner.
 
-![Alt text](./liber-illustrated.svg)
+![Illustrated examples](./liber-simplicitas.svg)
