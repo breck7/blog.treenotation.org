@@ -2,7 +2,9 @@
 
 [View on GitHub](https://github.com/treenotation/blog.treenotation.org/blob/master/liber-simplicitas.md)
 
-## DRAFT.
+## WORK IN PROGRESS.
+
+![Alt text](./liber-illustrated.svg)
 
 The Tree Notation system of writing consists of _cells_ and _symbols_ and _grids_ and _trees_ and _treeMachines_ and _programs_ and _grammars_.
 
