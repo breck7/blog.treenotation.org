@@ -1,1 +1,1 @@
-linkinator https://treenotation.org
+linkinator https://blog.treenotation.org
